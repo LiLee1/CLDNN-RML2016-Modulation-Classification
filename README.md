@@ -1,4 +1,4 @@
-# 参考cldnn.ipynb中最后一个实验即可，前面的实验室一些测试
+# 参考cldnn.ipynb中最后一个实验即可，前面的是一些测试
 
 # CLDNN-RML2016-Modulation-Classification
 
